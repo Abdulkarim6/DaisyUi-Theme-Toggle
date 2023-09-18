@@ -1,0 +1,19 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  place-items: center;
+  min-height: 100vh;
+  text-align: center;
+}
+p{
+  font-size: xx-large;
+  font-weight: 700;
+  margin-top: 20px;
+}
